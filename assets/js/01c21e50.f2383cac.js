@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmiking_lang_github_io=self.webpackChunkmiking_lang_github_io||[]).push([[488],{9989:function(g){g.exports=JSON.parse('{"allTagsPath":"/miking-lang.github.io/blog/tags","slug":"/miking-lang.github.io/blog/tags/hola","name":"hola","count":1,"permalink":"/miking-lang.github.io/blog/tags/hola"}')}}]);

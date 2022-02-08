@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmiking_lang_github_io=self.webpackChunkmiking_lang_github_io||[]).push([[278],{504:function(g){g.exports=JSON.parse('{"permalink":"/miking-lang.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
