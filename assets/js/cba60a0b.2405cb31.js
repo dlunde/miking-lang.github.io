@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmiking_lang_github_io=self.webpackChunkmiking_lang_github_io||[]).push([[456],{4710:function(g){g.exports=JSON.parse('{"allTagsPath":"/miking-lang.github.io/blog/tags","slug":"/miking-lang.github.io/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/miking-lang.github.io/blog/tags/docusaurus"}')}}]);
